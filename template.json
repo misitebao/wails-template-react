@@ -1,0 +1,8 @@
+{
+  "name": "wails-template-react",
+  "version": "1.0.0-beta.1",
+  "shortname": "react",
+  "author": "Misitebao <i@misitebao.com>",
+  "description": "A template using React",
+  "helpurl": "https://github.com/misitebao/wails-template-react"
+}

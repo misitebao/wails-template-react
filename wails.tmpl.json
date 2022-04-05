@@ -1,0 +1,13 @@
+{
+  "name": "{{.ProjectName}}",
+  "outputfilename": "{{.BinaryName}}",
+  "assetdir": "frontend/dist",
+  "frontend:install": "npm install",
+  "frontend:build": "npm run build -w ts",
+  "frontend:dev:watcher": "npm run build:watch -w ts",
+  "debounceMS": 1500,
+  "author": {
+    "name": "{{.AuthorName}}",
+    "email": "{{.AuthorEmail}}"
+  }
+}
